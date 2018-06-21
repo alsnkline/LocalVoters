@@ -1,0 +1,9 @@
+elections,dates,cycle,etype,president,us_senate_maj,us_repre_maj,ca_governor,ca_lt_govnor,ca_senate_maj,ca_assembly_maj
+E8_110618,2018-11-06,Cong,General,REP,4,42,DEM,DEM,-13,-28
+E7_060518,2018-06-05,Cong,Primary,REP,4,42,DEM,DEM,-13,-28
+E6_110816,2016-11-08,Pres,General,DEM,10,60,DEM,DEM,-13,-24
+E5_060716,2016-06-07,Pres,Primary,DEM,10,58,DEM,DEM,-13,-24
+E4_110414,2014-11-04,Cong,General,DEM,-8,34,DEM,DEM,-13,-31
+E3_060314,2014-06-03,Cong,Primary,DEM,-8,34,DEM,DEM,-13,-31
+E2_110612,2012-11-06,Pres,General,DEM,-3,50,DEM,DEM,-11,-25
+E1_060512,2012-06-05,Pres,Primary,DEM,-3,52,DEM,DEM,-11,-25
